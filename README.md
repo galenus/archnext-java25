@@ -1,6 +1,6 @@
 This repository contains the resources related to my "Java turns 25 - how is it faring and what is yet to come" talk at [CodeValue's](https://codevalue.net) [Architecture Next 2020](https://archnext.codevalue.com) conference.
 
-###Links related to the technologies mentioned in the talk
+### Links related to the technologies mentioned in the talk
 
 Microservices:
 - [Spring Boot](https://spring.io/projects/spring-boot) and its [Initializr](https://start.spring.io/) tool
@@ -34,7 +34,7 @@ Innovative projects:
 - [GraalVM official site](https://www.graalvm.org/) and [its native image documentation](https://www.graalvm.org/docs/Native-Image/user/README)
 - [TornadoVM](https://github.com/beehive-lab/TornadoVM/blob/master/assembly/src/docs/14_FAQ.md) - executing programs on CPU, GPU, FPGA
 
-###Source code
+### Source code
 The source code in this repository contains a demo Telegram trivia bot implemented in various JVM-based languages.
 
 Each implementation is in a separate project subfolder:
