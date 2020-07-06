@@ -1,0 +1,382 @@
+[
+{
+  "name":"com.codevalue.archnext.TriviaQuestion",
+  "allDeclaredFields":true,
+  "allDeclaredMethods":true,
+  "allDeclaredConstructors":true
+},
+{
+  "name":"com.codevalue.archnext.TriviaQuestion[]"
+},
+{
+  "name":"com.codevalue.archnext.TriviaQuestionsSet",
+  "allDeclaredFields":true,
+  "allDeclaredMethods":true,
+  "allDeclaredConstructors":true
+},
+{
+  "name":"com.codevalue.archnext.TriviaQuestionsSet[]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.Animation",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Audio",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.CallbackQuery",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Chat",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Chat$Type",
+  "fields":[
+    {"name":"Private"}, 
+    {"name":"channel"}, 
+    {"name":"group"}, 
+    {"name":"supergroup"}
+  ]
+},
+{
+  "name":"com.pengrad.telegrambot.model.ChatPermissions",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.ChatPhoto",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.ChosenInlineResult",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Contact",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Dice",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Document",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Game",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.InlineQuery",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Invoice",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Location",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.MaskPosition",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Message",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.MessageEntity",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.MessageEntity$Type",
+  "fields":[
+    {"name":"bold"}, 
+    {"name":"bot_command"}, 
+    {"name":"cashtag"}, 
+    {"name":"code"}, 
+    {"name":"email"}, 
+    {"name":"hashtag"}, 
+    {"name":"italic"}, 
+    {"name":"mention"}, 
+    {"name":"phone_number"}, 
+    {"name":"pre"}, 
+    {"name":"strikethrough"}, 
+    {"name":"text_link"}, 
+    {"name":"text_mention"}, 
+    {"name":"underline"}, 
+    {"name":"url"}
+  ]
+},
+{
+  "name":"com.pengrad.telegrambot.model.MessageEntity[]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.OrderInfo",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.PhotoSize",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.PhotoSize[]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.Poll",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Poll$Type",
+  "fields":[
+    {"name":"quiz"}, 
+    {"name":"regular"}
+  ]
+},
+{
+  "name":"com.pengrad.telegrambot.model.PollAnswer",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.PollOption",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.PollOption[]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.PreCheckoutQuery",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.ResponseParameters",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.ShippingAddress",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.ShippingQuery",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Sticker",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.SuccessfulPayment",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Update",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.User",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.User[]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.Venue",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Video",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.VideoNote",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.Voice",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.CallbackGame",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.InlineKeyboardButton",
+  "allDeclaredFields":true
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.InlineKeyboardButton[]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.InlineKeyboardButton[][]"
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.InlineKeyboardMarkup",
+  "allDeclaredFields":true
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.Keyboard",
+  "allDeclaredFields":true
+},
+{
+  "name":"com.pengrad.telegrambot.model.request.LoginUrl",
+  "allDeclaredFields":true
+},
+{
+  "name":"com.pengrad.telegrambot.passport.EncryptedCredentials",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.passport.EncryptedPassportElement",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.passport.EncryptedPassportElement$Type",
+  "fields":[
+    {"name":"address"}, 
+    {"name":"bank_statement"}, 
+    {"name":"driver_license"}, 
+    {"name":"email"}, 
+    {"name":"identity_card"}, 
+    {"name":"internal_passport"}, 
+    {"name":"passport"}, 
+    {"name":"passport_registration"}, 
+    {"name":"personal_details"}, 
+    {"name":"phone_number"}, 
+    {"name":"rental_agreement"}, 
+    {"name":"temporary_registration"}, 
+    {"name":"utility_bill"}
+  ]
+},
+{
+  "name":"com.pengrad.telegrambot.passport.EncryptedPassportElement[]"
+},
+{
+  "name":"com.pengrad.telegrambot.passport.PassportData",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.passport.PassportFile",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.passport.PassportFile[]"
+},
+{
+  "name":"com.pengrad.telegrambot.response.BaseResponse",
+  "allDeclaredFields":true
+},
+{
+  "name":"com.pengrad.telegrambot.response.GetUpdatesResponse",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.pengrad.telegrambot.response.SendResponse",
+  "allDeclaredFields":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.squareup.moshi.Json",
+  "allDeclaredMethods":true
+},
+{
+  "name":"java.lang.Integer[]"
+},
+{
+  "name":"java.lang.Object"
+},
+{
+  "name":"java.lang.Object[]"
+},
+{
+  "name":"java.lang.String[]"
+},
+{
+  "name":"java.lang.Throwable",
+  "methods":[{"name":"addSuppressed","parameterTypes":["java.lang.Throwable"] }]
+},
+{
+  "name":"java.lang.reflect.AccessibleObject",
+  "fields":[{"name":"override"}]
+},
+{
+  "name":"java.util.List[]"
+},
+{
+  "name":"javax.net.ssl.SSLParameters",
+  "methods":[{"name":"setApplicationProtocols","parameterTypes":["java.lang.String[]"] }]
+},
+{
+  "name":"javax.net.ssl.SSLSocket",
+  "methods":[{"name":"getApplicationProtocol","parameterTypes":[] }]
+},
+{
+  "name":"kotlin.Metadata",
+  "allDeclaredMethods":true
+},
+{
+  "name":"kotlin.jvm.internal.DefaultConstructorMarker"
+},
+{
+  "name":"kotlin.reflect.jvm.internal.ReflectionFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter",
+  "allPublicFields":true
+},
+{
+  "name":"sun.misc.Unsafe",
+  "fields":[{"name":"theUnsafe"}],
+  "methods":[
+    {"name":"allocateInstance","parameterTypes":["java.lang.Class"] }, 
+    {"name":"objectFieldOffset","parameterTypes":["java.lang.reflect.Field"] }, 
+    {"name":"putBoolean","parameterTypes":["java.lang.Object","long","boolean"] }
+  ]
+}
+]
