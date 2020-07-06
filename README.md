@@ -38,9 +38,9 @@ Innovative projects:
 The source code in this repository contains a demo Telegram trivia bot implemented in various JVM-based languages.
 
 Each implementation is in a separate project subfolder:
-- Java6 - the 'standard' Java 1.6
-- JavaNext - Java with preview features enabled (v14 preview at the time of creation)
-- Groovy - the same as Java* projects, just in Groovy
-- Scala - same functionality, Scala on Akka
-- Kotlin - same functionality, Kotlin, supports GraalVM native image output (uses different 3rd party libraries to make supporting the native version easier)
+- Java6 - the 'standard' Java 1.6 (JDK 8)
+- JavaNext - Java with preview features enabled (v14 preview at the time of creation, JDK 14)
+- Groovy - the same as Java* projects, just in Groovy (JDK 8)
+- Scala - same functionality, Scala on Akka (JDK 14)
+- Kotlin - same functionality, Kotlin, supports GraalVM native image output (uses different 3rd party libraries to make supporting the native version easier, GraalVM JDK 11)
  
